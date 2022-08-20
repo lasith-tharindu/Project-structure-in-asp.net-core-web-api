@@ -1,0 +1,17 @@
+F:\My Details\ASP.NET\project-structure-in-asp.net-core-web-api\WebApplication.Data\bin\Debug\net5.0\WebApplication.Data.deps.json
+F:\My Details\ASP.NET\project-structure-in-asp.net-core-web-api\WebApplication.Data\bin\Debug\net5.0\WebApplication.Data.dll
+F:\My Details\ASP.NET\project-structure-in-asp.net-core-web-api\WebApplication.Data\bin\Debug\net5.0\ref\WebApplication.Data.dll
+F:\My Details\ASP.NET\project-structure-in-asp.net-core-web-api\WebApplication.Data\bin\Debug\net5.0\WebApplication.Data.pdb
+F:\My Details\ASP.NET\project-structure-in-asp.net-core-web-api\WebApplication.Data\bin\Debug\net5.0\WebApplication.Common.dll
+F:\My Details\ASP.NET\project-structure-in-asp.net-core-web-api\WebApplication.Data\bin\Debug\net5.0\WebApplication.Framework.dll
+F:\My Details\ASP.NET\project-structure-in-asp.net-core-web-api\WebApplication.Data\bin\Debug\net5.0\WebApplication.Common.pdb
+F:\My Details\ASP.NET\project-structure-in-asp.net-core-web-api\WebApplication.Data\bin\Debug\net5.0\WebApplication.Framework.pdb
+F:\My Details\ASP.NET\project-structure-in-asp.net-core-web-api\WebApplication.Data\obj\Debug\net5.0\WebApplication.Data.csprojAssemblyReference.cache
+F:\My Details\ASP.NET\project-structure-in-asp.net-core-web-api\WebApplication.Data\obj\Debug\net5.0\WebApplication.Data.GeneratedMSBuildEditorConfig.editorconfig
+F:\My Details\ASP.NET\project-structure-in-asp.net-core-web-api\WebApplication.Data\obj\Debug\net5.0\WebApplication.Data.AssemblyInfoInputs.cache
+F:\My Details\ASP.NET\project-structure-in-asp.net-core-web-api\WebApplication.Data\obj\Debug\net5.0\WebApplication.Data.AssemblyInfo.cs
+F:\My Details\ASP.NET\project-structure-in-asp.net-core-web-api\WebApplication.Data\obj\Debug\net5.0\WebApplication.Data.csproj.CoreCompileInputs.cache
+F:\My Details\ASP.NET\project-structure-in-asp.net-core-web-api\WebApplication.Data\obj\Debug\net5.0\WebApplication.Data.csproj.CopyComplete
+F:\My Details\ASP.NET\project-structure-in-asp.net-core-web-api\WebApplication.Data\obj\Debug\net5.0\WebApplication.Data.dll
+F:\My Details\ASP.NET\project-structure-in-asp.net-core-web-api\WebApplication.Data\obj\Debug\net5.0\ref\WebApplication.Data.dll
+F:\My Details\ASP.NET\project-structure-in-asp.net-core-web-api\WebApplication.Data\obj\Debug\net5.0\WebApplication.Data.pdb
