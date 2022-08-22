@@ -13,3 +13,18 @@ F:\My Details\ASP.NET\project-structure-in-asp.net-core-web-api\WebApplication.F
 F:\My Details\ASP.NET\project-structure-in-asp.net-core-web-api\WebApplication.Framework\obj\Debug\net5.0\ref\WebApplication.Framework.dll
 F:\My Details\ASP.NET\project-structure-in-asp.net-core-web-api\WebApplication.Framework\obj\Debug\net5.0\WebApplication.Framework.pdb
 F:\My Details\ASP.NET\project-structure-in-asp.net-core-web-api\WebApplication.Framework\obj\Debug\net5.0\WebApplication.Framework.genruntimeconfig.cache
+F:\My New Project in  Flutter\New folder\Project-structure-in-asp.net-core-web-api\WebApplication.Framework\bin\Debug\net5.0\WebApplication.Framework.deps.json
+F:\My New Project in  Flutter\New folder\Project-structure-in-asp.net-core-web-api\WebApplication.Framework\bin\Debug\net5.0\WebApplication.Framework.runtimeconfig.json
+F:\My New Project in  Flutter\New folder\Project-structure-in-asp.net-core-web-api\WebApplication.Framework\bin\Debug\net5.0\WebApplication.Framework.runtimeconfig.dev.json
+F:\My New Project in  Flutter\New folder\Project-structure-in-asp.net-core-web-api\WebApplication.Framework\bin\Debug\net5.0\WebApplication.Framework.dll
+F:\My New Project in  Flutter\New folder\Project-structure-in-asp.net-core-web-api\WebApplication.Framework\bin\Debug\net5.0\ref\WebApplication.Framework.dll
+F:\My New Project in  Flutter\New folder\Project-structure-in-asp.net-core-web-api\WebApplication.Framework\bin\Debug\net5.0\WebApplication.Framework.pdb
+F:\My New Project in  Flutter\New folder\Project-structure-in-asp.net-core-web-api\WebApplication.Framework\obj\Debug\net5.0\WebApplication.Framework.csprojAssemblyReference.cache
+F:\My New Project in  Flutter\New folder\Project-structure-in-asp.net-core-web-api\WebApplication.Framework\obj\Debug\net5.0\WebApplication.Framework.GeneratedMSBuildEditorConfig.editorconfig
+F:\My New Project in  Flutter\New folder\Project-structure-in-asp.net-core-web-api\WebApplication.Framework\obj\Debug\net5.0\WebApplication.Framework.AssemblyInfoInputs.cache
+F:\My New Project in  Flutter\New folder\Project-structure-in-asp.net-core-web-api\WebApplication.Framework\obj\Debug\net5.0\WebApplication.Framework.AssemblyInfo.cs
+F:\My New Project in  Flutter\New folder\Project-structure-in-asp.net-core-web-api\WebApplication.Framework\obj\Debug\net5.0\WebApplication.Framework.csproj.CoreCompileInputs.cache
+F:\My New Project in  Flutter\New folder\Project-structure-in-asp.net-core-web-api\WebApplication.Framework\obj\Debug\net5.0\WebApplication.Framework.dll
+F:\My New Project in  Flutter\New folder\Project-structure-in-asp.net-core-web-api\WebApplication.Framework\obj\Debug\net5.0\ref\WebApplication.Framework.dll
+F:\My New Project in  Flutter\New folder\Project-structure-in-asp.net-core-web-api\WebApplication.Framework\obj\Debug\net5.0\WebApplication.Framework.pdb
+F:\My New Project in  Flutter\New folder\Project-structure-in-asp.net-core-web-api\WebApplication.Framework\obj\Debug\net5.0\WebApplication.Framework.genruntimeconfig.cache

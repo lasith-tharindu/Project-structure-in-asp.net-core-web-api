@@ -127,5 +127,10 @@ namespace WebApplication.Data
 
         }
 
+        public User GetByUsername(string username)
+        {
+            var userEntity = testDbContext.Users.FirstOrDefault(v => v.UserName == username);
+            return userEntity;
+        }
     }
 }

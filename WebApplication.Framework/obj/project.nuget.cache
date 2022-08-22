@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IXKTgF7jRIH7egMYV+PN93OExA0wHdLwFci1YscDbz8BghtP8rZUbQk38yKzy7W8GdK4H1Ow2NYsemn8a4dhyw==",
+  "dgSpecHash": "+aAL4E72ZUETvWpSyBrf4HCnvBhoZYJvAbb8IMggRejCnhJAAuDFe/Zb4WQVXDxGcD7bwgaqzR5dVzda8NWCXA==",
   "success": true,
-  "projectFilePath": "F:\\My New Project in  Flutter\\project-structure-in-asp.net-core-web-api\\WebApplication.Framework\\WebApplication.Framework.csproj",
+  "projectFilePath": "F:\\My New Project in  Flutter\\New folder\\Project-structure-in-asp.net-core-web-api\\WebApplication.Framework\\WebApplication.Framework.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\D.G Lasith Tharindu\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\D.G Lasith Tharindu\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

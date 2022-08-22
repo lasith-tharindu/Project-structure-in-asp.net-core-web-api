@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using WebApplication.Common.Models;
+using WebApplication.Framework.Database;
 
 namespace WebApplication.Data.Interfaces
 {
@@ -13,6 +14,7 @@ namespace WebApplication.Data.Interfaces
         UserModal SaveUser(UserModal userModal);
         UserModal EditUser(UserModal userModal);
         UserModal GetUserByUserId(int userId);
+        User GetByUsername(string username);
         bool DeleteUserByUserId(int userId);
     }
 }

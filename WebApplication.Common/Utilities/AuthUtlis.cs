@@ -17,5 +17,11 @@ namespace WebApplication.Common.Utilities
         {
             return BCrypt.Net.BCrypt.HashString(value);
         }
+
+        public static bool VerifyPassword(string passwordText, string passwordHashed)
+        {
+            return BCrypt.Net.BCrypt.Verify(passwordText, passwordHashed);
+        }
+
     }
 }

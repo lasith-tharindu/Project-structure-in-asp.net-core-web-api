@@ -20,3 +20,25 @@ F:\My Details\ASP.NET\project-structure-in-asp.net-core-web-api\WebApplication.S
 F:\My Details\ASP.NET\project-structure-in-asp.net-core-web-api\WebApplication.Services\bin\Debug\net5.0\WebApplication.Data.pdb
 F:\My Details\ASP.NET\project-structure-in-asp.net-core-web-api\WebApplication.Services\bin\Debug\net5.0\WebApplication.Framework.pdb
 F:\My Details\ASP.NET\project-structure-in-asp.net-core-web-api\WebApplication.Services\obj\Debug\net5.0\WebApplication.Services.csproj.CopyComplete
+F:\My New Project in  Flutter\New folder\Project-structure-in-asp.net-core-web-api\WebApplication.Services\bin\Debug\net5.0\WebApplication.Services.deps.json
+F:\My New Project in  Flutter\New folder\Project-structure-in-asp.net-core-web-api\WebApplication.Services\bin\Debug\net5.0\WebApplication.Services.runtimeconfig.json
+F:\My New Project in  Flutter\New folder\Project-structure-in-asp.net-core-web-api\WebApplication.Services\bin\Debug\net5.0\WebApplication.Services.runtimeconfig.dev.json
+F:\My New Project in  Flutter\New folder\Project-structure-in-asp.net-core-web-api\WebApplication.Services\bin\Debug\net5.0\WebApplication.Services.dll
+F:\My New Project in  Flutter\New folder\Project-structure-in-asp.net-core-web-api\WebApplication.Services\bin\Debug\net5.0\ref\WebApplication.Services.dll
+F:\My New Project in  Flutter\New folder\Project-structure-in-asp.net-core-web-api\WebApplication.Services\bin\Debug\net5.0\WebApplication.Services.pdb
+F:\My New Project in  Flutter\New folder\Project-structure-in-asp.net-core-web-api\WebApplication.Services\bin\Debug\net5.0\WebApplication.Common.dll
+F:\My New Project in  Flutter\New folder\Project-structure-in-asp.net-core-web-api\WebApplication.Services\bin\Debug\net5.0\WebApplication.Data.dll
+F:\My New Project in  Flutter\New folder\Project-structure-in-asp.net-core-web-api\WebApplication.Services\bin\Debug\net5.0\WebApplication.Framework.dll
+F:\My New Project in  Flutter\New folder\Project-structure-in-asp.net-core-web-api\WebApplication.Services\bin\Debug\net5.0\WebApplication.Common.pdb
+F:\My New Project in  Flutter\New folder\Project-structure-in-asp.net-core-web-api\WebApplication.Services\bin\Debug\net5.0\WebApplication.Data.pdb
+F:\My New Project in  Flutter\New folder\Project-structure-in-asp.net-core-web-api\WebApplication.Services\bin\Debug\net5.0\WebApplication.Framework.pdb
+F:\My New Project in  Flutter\New folder\Project-structure-in-asp.net-core-web-api\WebApplication.Services\obj\Debug\net5.0\WebApplication.Services.csprojAssemblyReference.cache
+F:\My New Project in  Flutter\New folder\Project-structure-in-asp.net-core-web-api\WebApplication.Services\obj\Debug\net5.0\WebApplication.Services.GeneratedMSBuildEditorConfig.editorconfig
+F:\My New Project in  Flutter\New folder\Project-structure-in-asp.net-core-web-api\WebApplication.Services\obj\Debug\net5.0\WebApplication.Services.AssemblyInfoInputs.cache
+F:\My New Project in  Flutter\New folder\Project-structure-in-asp.net-core-web-api\WebApplication.Services\obj\Debug\net5.0\WebApplication.Services.AssemblyInfo.cs
+F:\My New Project in  Flutter\New folder\Project-structure-in-asp.net-core-web-api\WebApplication.Services\obj\Debug\net5.0\WebApplication.Services.csproj.CoreCompileInputs.cache
+F:\My New Project in  Flutter\New folder\Project-structure-in-asp.net-core-web-api\WebApplication.Services\obj\Debug\net5.0\WebApplication.Services.csproj.CopyComplete
+F:\My New Project in  Flutter\New folder\Project-structure-in-asp.net-core-web-api\WebApplication.Services\obj\Debug\net5.0\WebApplication.Services.dll
+F:\My New Project in  Flutter\New folder\Project-structure-in-asp.net-core-web-api\WebApplication.Services\obj\Debug\net5.0\ref\WebApplication.Services.dll
+F:\My New Project in  Flutter\New folder\Project-structure-in-asp.net-core-web-api\WebApplication.Services\obj\Debug\net5.0\WebApplication.Services.pdb
+F:\My New Project in  Flutter\New folder\Project-structure-in-asp.net-core-web-api\WebApplication.Services\obj\Debug\net5.0\WebApplication.Services.genruntimeconfig.cache

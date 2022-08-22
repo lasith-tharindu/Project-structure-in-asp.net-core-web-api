@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\My New Project in  Flutter\\project-structure-in-asp.net-core-web-api\\WebApplication.Data\\WebApplication.Data.csproj": {}
+    "F:\\My New Project in  Flutter\\New folder\\Project-structure-in-asp.net-core-web-api\\WebApplication.Data\\WebApplication.Data.csproj": {}
   },
   "projects": {
-    "F:\\My New Project in  Flutter\\project-structure-in-asp.net-core-web-api\\WebApplication.Common\\WebApplication.Common.csproj": {
+    "F:\\My New Project in  Flutter\\New folder\\Project-structure-in-asp.net-core-web-api\\WebApplication.Common\\WebApplication.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\My New Project in  Flutter\\project-structure-in-asp.net-core-web-api\\WebApplication.Common\\WebApplication.Common.csproj",
+        "projectUniqueName": "F:\\My New Project in  Flutter\\New folder\\Project-structure-in-asp.net-core-web-api\\WebApplication.Common\\WebApplication.Common.csproj",
         "projectName": "WebApplication.Common",
-        "projectPath": "F:\\My New Project in  Flutter\\project-structure-in-asp.net-core-web-api\\WebApplication.Common\\WebApplication.Common.csproj",
+        "projectPath": "F:\\My New Project in  Flutter\\New folder\\Project-structure-in-asp.net-core-web-api\\WebApplication.Common\\WebApplication.Common.csproj",
         "packagesPath": "C:\\Users\\D.G Lasith Tharindu\\.nuget\\packages\\",
-        "outputPath": "F:\\My New Project in  Flutter\\project-structure-in-asp.net-core-web-api\\WebApplication.Common\\obj\\",
+        "outputPath": "F:\\My New Project in  Flutter\\New folder\\Project-structure-in-asp.net-core-web-api\\WebApplication.Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -35,8 +35,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "F:\\My New Project in  Flutter\\project-structure-in-asp.net-core-web-api\\WebApplication.Framework\\WebApplication.Framework.csproj": {
-                "projectPath": "F:\\My New Project in  Flutter\\project-structure-in-asp.net-core-web-api\\WebApplication.Framework\\WebApplication.Framework.csproj"
+              "F:\\My New Project in  Flutter\\New folder\\Project-structure-in-asp.net-core-web-api\\WebApplication.Framework\\WebApplication.Framework.csproj": {
+                "projectPath": "F:\\My New Project in  Flutter\\New folder\\Project-structure-in-asp.net-core-web-api\\WebApplication.Framework\\WebApplication.Framework.csproj"
               }
             }
           }
@@ -90,6 +90,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[5.0.0, )"
+            },
+            "System.IdentityModel.Tokens.Jwt": {
+              "target": "Package",
+              "version": "[6.11.0, )"
             }
           },
           "imports": [
@@ -111,14 +115,14 @@
         }
       }
     },
-    "F:\\My New Project in  Flutter\\project-structure-in-asp.net-core-web-api\\WebApplication.Data\\WebApplication.Data.csproj": {
+    "F:\\My New Project in  Flutter\\New folder\\Project-structure-in-asp.net-core-web-api\\WebApplication.Data\\WebApplication.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\My New Project in  Flutter\\project-structure-in-asp.net-core-web-api\\WebApplication.Data\\WebApplication.Data.csproj",
+        "projectUniqueName": "F:\\My New Project in  Flutter\\New folder\\Project-structure-in-asp.net-core-web-api\\WebApplication.Data\\WebApplication.Data.csproj",
         "projectName": "WebApplication.Data",
-        "projectPath": "F:\\My New Project in  Flutter\\project-structure-in-asp.net-core-web-api\\WebApplication.Data\\WebApplication.Data.csproj",
+        "projectPath": "F:\\My New Project in  Flutter\\New folder\\Project-structure-in-asp.net-core-web-api\\WebApplication.Data\\WebApplication.Data.csproj",
         "packagesPath": "C:\\Users\\D.G Lasith Tharindu\\.nuget\\packages\\",
-        "outputPath": "F:\\My New Project in  Flutter\\project-structure-in-asp.net-core-web-api\\WebApplication.Data\\obj\\",
+        "outputPath": "F:\\My New Project in  Flutter\\New folder\\Project-structure-in-asp.net-core-web-api\\WebApplication.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -142,11 +146,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "F:\\My New Project in  Flutter\\project-structure-in-asp.net-core-web-api\\WebApplication.Common\\WebApplication.Common.csproj": {
-                "projectPath": "F:\\My New Project in  Flutter\\project-structure-in-asp.net-core-web-api\\WebApplication.Common\\WebApplication.Common.csproj"
+              "F:\\My New Project in  Flutter\\New folder\\Project-structure-in-asp.net-core-web-api\\WebApplication.Common\\WebApplication.Common.csproj": {
+                "projectPath": "F:\\My New Project in  Flutter\\New folder\\Project-structure-in-asp.net-core-web-api\\WebApplication.Common\\WebApplication.Common.csproj"
               },
-              "F:\\My New Project in  Flutter\\project-structure-in-asp.net-core-web-api\\WebApplication.Framework\\WebApplication.Framework.csproj": {
-                "projectPath": "F:\\My New Project in  Flutter\\project-structure-in-asp.net-core-web-api\\WebApplication.Framework\\WebApplication.Framework.csproj"
+              "F:\\My New Project in  Flutter\\New folder\\Project-structure-in-asp.net-core-web-api\\WebApplication.Framework\\WebApplication.Framework.csproj": {
+                "projectPath": "F:\\My New Project in  Flutter\\New folder\\Project-structure-in-asp.net-core-web-api\\WebApplication.Framework\\WebApplication.Framework.csproj"
               }
             }
           }
@@ -179,14 +183,14 @@
         }
       }
     },
-    "F:\\My New Project in  Flutter\\project-structure-in-asp.net-core-web-api\\WebApplication.Framework\\WebApplication.Framework.csproj": {
+    "F:\\My New Project in  Flutter\\New folder\\Project-structure-in-asp.net-core-web-api\\WebApplication.Framework\\WebApplication.Framework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\My New Project in  Flutter\\project-structure-in-asp.net-core-web-api\\WebApplication.Framework\\WebApplication.Framework.csproj",
+        "projectUniqueName": "F:\\My New Project in  Flutter\\New folder\\Project-structure-in-asp.net-core-web-api\\WebApplication.Framework\\WebApplication.Framework.csproj",
         "projectName": "WebApplication.Framework",
-        "projectPath": "F:\\My New Project in  Flutter\\project-structure-in-asp.net-core-web-api\\WebApplication.Framework\\WebApplication.Framework.csproj",
+        "projectPath": "F:\\My New Project in  Flutter\\New folder\\Project-structure-in-asp.net-core-web-api\\WebApplication.Framework\\WebApplication.Framework.csproj",
         "packagesPath": "C:\\Users\\D.G Lasith Tharindu\\.nuget\\packages\\",
-        "outputPath": "F:\\My New Project in  Flutter\\project-structure-in-asp.net-core-web-api\\WebApplication.Framework\\obj\\",
+        "outputPath": "F:\\My New Project in  Flutter\\New folder\\Project-structure-in-asp.net-core-web-api\\WebApplication.Framework\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

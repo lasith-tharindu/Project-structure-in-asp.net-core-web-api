@@ -1,5 +1,7 @@
-﻿using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Logging;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,12 +12,14 @@ using WebApplication.Services.Interfaces;
 
 namespace WebApplication.Controllers
 {
-    [ApiController]
+
     [Route("api/v1/user")]
-    public class UserController : BaseController<UserController>
+    [ApiController]
+    [Authorize]
+    public class UserController : ControllerBase
     {
         private readonly IUserServices _userServices;
-        public UserController(IUserServices userServices, IHttpContextAccessor httpContextAccessor) : base(httpContextAccessor)
+        public UserController(ILogger<UserController> logger, IUserServices userServices, IHttpContextAccessor httpContextAccessor) 
         {
             _userServices = userServices;
         }
@@ -36,6 +40,7 @@ namespace WebApplication.Controllers
 
         }
 
+        //[AllowAnonymous]
         [HttpGet("All")]
         public ActionResult GetAllUser()
         {

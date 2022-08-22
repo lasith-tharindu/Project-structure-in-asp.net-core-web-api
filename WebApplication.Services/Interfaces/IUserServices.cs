@@ -15,5 +15,7 @@ namespace WebApplication.Services.Interfaces
         ActionResponse<UserModal> EditUser(UserModal userModal);
         ActionResponse<UserModal> GetUserByUserId(int userId);
         ActionResponse<UserModal> DeleteUserByUserId(int userId);
+        ActionResponse<UserModal> GetCheckUser(string token);
+        ActionResponse<AuthenticateResponseModal> SignIn(string username, string password);
     }
 }

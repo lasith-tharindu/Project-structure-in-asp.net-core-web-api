@@ -7272,11 +7272,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\My New Project in  Flutter\\project-structure-in-asp.net-core-web-api\\WebApplication.Framework\\WebApplication.Framework.csproj",
+      "projectUniqueName": "F:\\My New Project in  Flutter\\New folder\\Project-structure-in-asp.net-core-web-api\\WebApplication.Framework\\WebApplication.Framework.csproj",
       "projectName": "WebApplication.Framework",
-      "projectPath": "F:\\My New Project in  Flutter\\project-structure-in-asp.net-core-web-api\\WebApplication.Framework\\WebApplication.Framework.csproj",
+      "projectPath": "F:\\My New Project in  Flutter\\New folder\\Project-structure-in-asp.net-core-web-api\\WebApplication.Framework\\WebApplication.Framework.csproj",
       "packagesPath": "C:\\Users\\D.G Lasith Tharindu\\.nuget\\packages\\",
-      "outputPath": "F:\\My New Project in  Flutter\\project-structure-in-asp.net-core-web-api\\WebApplication.Framework\\obj\\",
+      "outputPath": "F:\\My New Project in  Flutter\\New folder\\Project-structure-in-asp.net-core-web-api\\WebApplication.Framework\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
